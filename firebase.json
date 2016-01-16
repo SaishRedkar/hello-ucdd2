@@ -1,0 +1,9 @@
+{
+  "firebase": "red-helloucdd2",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
